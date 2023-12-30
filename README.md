@@ -4,7 +4,7 @@ This is a difficult problem. Pay attention to what you are doing and remember to
 Remember, we don't need to have it all in our heads, there is plenty of documentation and knowledge out there. Just understand why each statement, function, variable, loop, etc. was done and the reasoning. 
 
 Below is the background and description of the problem. It takes a .wav file as an input and will reverse the audio of the file. Cool, right? It takes the input from the CLI (command line interface), asking to run the program, as well
-as the input file and destination file for the reversed .wav audio. This program does check the amount of command line arguments (remember, running the program counts as an argument!), so make sure to enter the commands correctly. A sample way file 
+as the input file and destination file for the reversed .wav audio. This program does check the amount of command line arguments (remember, running the program counts as an argument!), so make sure to enter the commands correctly. A sample .wav file 
 from the course is included in the folder as well as the wav.h header that implements all the "chunks" or details of what's actually in a .wav file in a struc called WAVHEADER. This is absolutely necessary for the program to run! The rest can be followed below in the problem description. Good Luck!
 
 ![2023-12-29 21_43_09-Reverse - CS50x 2023](https://github.com/BearMSU/CS50-Problem-Set-4-Reverse/assets/65471994/c7ef8d55-e99b-4f71-ae5f-80199f334e03)
