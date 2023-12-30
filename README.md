@@ -1,5 +1,9 @@
 # CS50-Problem-Set-4-Reverse
 This is the CS50 Problem Set 4: Reverse
+This is a difficult problem. Pay attention to what you are doing and remember to close the files so you don't leak memory! If you get stuck, review the area, but make sure you understand WHY these were input the way they were.
+Remember, we don't need to have it all in our heads, there is plenty of documentation and knowledge out there. Just understand why each statement, function, variable, loop, etc. was done and the reasoning. 
+
+Below is the background and description of the problem.
 
 ![2023-12-29 21_43_09-Reverse - CS50x 2023](https://github.com/BearMSU/CS50-Problem-Set-4-Reverse/assets/65471994/c7ef8d55-e99b-4f71-ae5f-80199f334e03)
 
